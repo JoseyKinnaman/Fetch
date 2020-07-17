@@ -7,7 +7,7 @@
 
 _A pet naming app that helps pet owners and shelters find really fun, quirky, and hip names for their pets. Built as an Epicodus independent capstone project. Corresponds to the Fetcher Api_
 
-![Wireframe](src/img/tap-room.jpg)
+![Wireframe](src/img/)
 
 ### Instructions for use:
 
@@ -67,3 +67,33 @@ Please contact jozypants@gmail.com with questions.
 This software is licensed under the MIT license.
 
 Copyright © 2020 **_Jozy Kinnaman_**
+
+Capstone Plan...
+
+Name of Project: Fetch!
+
+_Project's Purpose or Goal: The app will let users search a comprehensive pet name database by different scopes to find the most unique, quirky and hip name for their pet. A tool for animal shelters and pet owners alike that uses a custom API._
+
+List the absolute minimum features the project requires to meet this purpose or goal:
+  - API
+  - Search function
+  - Scopes
+
+What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
+
+- Ruby on Rails
+- pSQl
+- React
+- CSS
+
+If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
+
+- Ability for users to submit suggestions to the db. Approval process or email box.
+- images of real people and their pets. 
+- Paypal box for donating to a shelter.
+
+What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
+- Paypal add on
+- Google Add on 
+
+Is there anything else you'd like your instructor to know? 
